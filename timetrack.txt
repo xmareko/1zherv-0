@@ -1,6 +1,6 @@
 exe1 - 1h51m
 exe2 - 4h12m (Unity Editor instalován napočtvrté, cvičení samotné ~2h)
-exe3 -
+exe3 - 1h36m
 exe4 - 1h45m
 exe5 - 1h46m
 exe6 - 1h57m
