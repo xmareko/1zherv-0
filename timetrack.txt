@@ -1,5 +1,5 @@
 exe1 - 1h51m
-exe2 - 4h12m (installed Unity Editor 4 times, excercise ~2h)
+exe2 - 4h12m (Unity Editor instalován napočtvrté, cvičení samotné ~2h)
 exe3 -
 exe4 -
 exe5 -
